@@ -14,5 +14,5 @@ washington.csv
 new_york_city.csv
 
 ### Credits
-Credit to Udacity for teaching the course.
+Credit to Udacity for teaching the data science course.
 
