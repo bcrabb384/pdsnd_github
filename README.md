@@ -1,4 +1,4 @@
-### Date created
+### Date Created
 2020-09-28
 
 ### Bikeshare
@@ -8,7 +8,7 @@
 Python project to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 Files added to gitignore include the city csv files.
 
-### Files used
+### Files Used
 bikeshare.py
 chicago.csv
 washington.csv
