@@ -5,7 +5,8 @@
 
 
 ### Description
-Python project to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+Python project to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+Files added to gitignore include the city csv files.
 
 ### Files used
 bikeshare.py
